@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ASPNETMVCCRUD",
+    "\\ASPNETMVCCRUD\\Controllers",
+    "\\ASPNETMVCCRUD\\Models",
+    "\\ASPNETMVCCRUD\\Models\\Domain",
+    "\\ASPNETMVCCRUD\\Views",
+    "\\ASPNETMVCCRUD\\Views\\Employees",
+    "\\ASPNETMVCCRUD\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ASPNETMVCCRUD\\Models\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}
